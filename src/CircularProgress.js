@@ -67,8 +67,7 @@ CircularProgress.propTypes = {
   tintColor: PropTypes.string,
   backgroundColor: PropTypes.string,
   rotation: PropTypes.number,
-  linecap: PropTypes.string,
-  children: PropTypes.func
+  linecap: PropTypes.string
 }
 
 CircularProgress.defaultProps = {
